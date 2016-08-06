@@ -1,0 +1,35 @@
+_repo: Laughing-Bill-Hyde-and-Other-Stories_11501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: http://en.wikipedia.org/wiki/Rex_Beach
+description: ''
+gutenberg_bookshelf:
+- Western
+- Movie Books
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: Laughing Bill Hyde -- The north wind's malice -- His stock in trade
+  -- With bridges burned -- With interest to date -- The cub reporter -- Out of the
+  night -- The real and the make-believe -- Running Elk -- The moon, the maid, and
+  the winged shoes -- Flesh.
+title: Laughing Bill Hyde and Other Stories
+url: http://www.gutenberg.org/ebooks/11501
